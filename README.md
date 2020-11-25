@@ -2,9 +2,8 @@
 <p align="center" >
 <img width=500 height=300 src="pl.gif"/>
 </p>
-
 #### Examples to get started with pytorch-lightning
-----------------------------------
+_______________________________
 
 1. [pytorch_lightning_cifar10](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/pytorch_lightning_cifar10.ipynb) - Building a model and training on the CIFAR10 dataset using pytorch-lightning
 
