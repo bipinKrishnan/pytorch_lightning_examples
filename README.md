@@ -3,6 +3,7 @@
 <p align="center" >
 <img width=500 height=300 src="pl.gif"/>
 </p>
+
 1. [pytorch_lightning_cifar10](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/pytorch_lightning_cifar10.ipynb) - Building a model and training on the CIFAR10 dataset using pytorch-lightning
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/pytorch_lightning_examples/blob/main/pytorch_lightning_cifar10.ipynb) 
