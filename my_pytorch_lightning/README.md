@@ -6,6 +6,6 @@
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/cifar10_example.ipynb)
 
 
-3. [my_lightning_module_with_example.ipynb](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_lightning_module_with_example.ipynb) - This is a jupyter notebook of our version of pytorch-lightning module along with an example made for those who wish to interactively tinker with the code
+3. [my_lightning_module_with_example.ipynb](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_lightning_module_with_example.ipynb) - This is a jupyter notebook of our version of pytorch-lightning module for those who wish to interactively tinker with the code
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/pytorch_lightning_examples/blob/main/my_lightning_module.ipynb)
