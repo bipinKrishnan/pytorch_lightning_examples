@@ -8,4 +8,4 @@
 
 3. [my_pytorch_lightning.ipynb](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_pytorch_lightning.ipynb) - This is a jupyter notebook of our version of pytorch-lightning module for those who wish to interactively tinker with its source code
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_pytorch_lightning.ipynb)
