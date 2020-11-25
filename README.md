@@ -1,4 +1,4 @@
-### Examples to get started with pytorch-lightning 
+#### Examples to get started with pytorch-lightning 
 ---------------------------------
 <p align="center" >
 <img width=500 height=300 src="pl.gif"/>
