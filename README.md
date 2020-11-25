@@ -1,5 +1,5 @@
 <p align="center" >
-Examples to get started with pytorch-lightning
+<h3>Examples to get started with pytorch-lightning</h3>
 </p>
 <p align="center" >
 <img width=500 height=300 src="pl.gif"/>
