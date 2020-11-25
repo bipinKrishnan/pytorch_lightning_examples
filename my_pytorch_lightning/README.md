@@ -1,4 +1,4 @@
-1. [my_pytorch_lightning.py](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_pytorch_lightning.py) - This file contains our version of the pytorch lightning library
+1. [my_pytorch_lightning.py](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_pytorch_lightning.py){target='_blank'} - This file contains our version of the pytorch lightning library
 
 2. [my_pytorch_lightning_example.ipynb](https://github.com/bipinKrishnan/pytorch_lightning_examples/blob/main/my_pytorch_lightning/my_pytorch_lightning_example.ipynb) - Contains an example of training a model on the CIFAR10 dataset using our version of pytorch-lightning module
 
